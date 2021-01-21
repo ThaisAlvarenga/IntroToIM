@@ -15,3 +15,6 @@ likewise
 this.
 
 this is a new paragraph. 
+
+![]dangodaikazoku.png
+
