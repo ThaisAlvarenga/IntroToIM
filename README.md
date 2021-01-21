@@ -18,3 +18,7 @@ this is a new paragraph.
 
 ![]dangodaikazoku.png
 
+- This makes a list
+  - this makes a sublist
+
+The .md means that the file will be displayed when you open the folder
