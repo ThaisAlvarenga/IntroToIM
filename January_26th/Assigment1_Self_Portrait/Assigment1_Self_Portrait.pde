@@ -98,9 +98,9 @@ void draw()
   ellipse(400, 250, 100, 100);
   ellipse(450, 200, 100, 100);
   ellipse(500, 240, 100, 100);
-  ellipse(540, 220, 100, 100);
+  ellipse(520, 180, 100, 100);
+  ellipse(540, 240, 100, 100);
   ellipse(550, 320, 100, 100);
-  ellipse(540, 100, 100, 100);
   ellipse(600, 290, 100, 100);
   
   //RIGHT EYE with the shape of a rose
@@ -182,5 +182,5 @@ void draw()
   
   ellipse(523, 400, 150, 100); //frame of the glasses 
   arc(432, 400, 30, 30, -PI, 0); // bridge of the glasses
- 
+  
   }
