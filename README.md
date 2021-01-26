@@ -18,6 +18,8 @@ this is a new paragraph.
 
 ![alt text](dangodaikazoku.png)
 
+When you write the address of the image, it is in relation to the folder you are in. So if it is in the same folder (and not a sub-folder), than you just have to write the name of the file.
+
 - This makes a list
   - this makes a sublist
 
