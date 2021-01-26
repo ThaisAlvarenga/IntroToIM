@@ -13,3 +13,5 @@ Afterwards, I was a tutorial by Daniel Shiffman about the setup and draw functio
 
 Even though it is a very simple drawing, I found it quite challenging to do, but I am very happy with the results. 
 
+## Final Result
+![alt text](ScreenShot-SelfPortait.png)
