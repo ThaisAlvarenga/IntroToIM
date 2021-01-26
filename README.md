@@ -16,7 +16,7 @@ this.
 
 this is a new paragraph. 
 
-![]dangodaikazoku.png
+![alt text](dangodaikazoku.png)
 
 - This makes a list
   - this makes a sublist
