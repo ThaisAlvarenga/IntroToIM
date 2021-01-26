@@ -23,4 +23,4 @@ this is a new paragraph.
 
 The .md means that the file will be displayed when you open the folder
 
-[Youtube](youtube.com)
+[Youtube](https://www.youtube.com/)
