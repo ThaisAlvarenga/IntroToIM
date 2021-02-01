@@ -12,6 +12,7 @@ that this would be the perfect project to test my knowledge of loops (and I mana
 
 1. The first thing I did was to create a canva and set the color of the background. By doing this, I could proceed with the drawing of the image of the dessert
 which I then uploaded using an PImage variable. (I didn't actually show the image until after I was done with the rain)
+![alt text](media/Background.png)
 2. Before starting this project, I watched Daniel Shiffman's tutorials on Object Oriented Programming and decided to incorporate that knowledge in this project
 since it would be very difficult to redraw all the raindrops. I also decided to use arrays for this matter and saw a couple of videos on classes and arrays.
 3. Afterwards, I created a class called rainDrop to create drops with a random x and y position, a falling speed and an end position of the drop. 
@@ -40,7 +41,7 @@ the show function.
 was that the ripples were still going, so I decided to also slow down the speed in the ripple function. 
 20. It worked! Yay. 
 21. Now, I had to fix the fact that the first batch of raindrops was falling by itself. Like this:
-![alt text]()
+![alt text](media/RainBatch.png)
 I know, it looks disgusting.
 22. I also didn't like the fact that the animation would'nt start if the mouse was not on the canva. (Professor said that it is what it is, so I gave up and left 
 it at that). 
@@ -69,3 +70,5 @@ Long Live Loops!
 
 
 ## Final Result
+
+![alt text](media/Final.png)
