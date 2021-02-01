@@ -1,4 +1,4 @@
-#Assigment 2: Loops
+# Assigment 2: Loops
 
 ## Description
 This is an interactive artwork that I like to call RAIN IN THE DESERT (because it literally is drain falling on the desert). The user can move their mouse up to
