@@ -3,4 +3,6 @@ the problem might be due to the scale() I use to resize the sprite, but even whe
 still off. I also have another question: once I fix that problem, I would still have to scale the sprite, which would mess up the values
 again. How could I go about solving that?
 
-I am attching below the way I was thinking to detect the walls of the maze
+I am attatching below the way I was thinking to detect the walls of the maze
+
+![](WallCheck.jpg)
